@@ -15,7 +15,8 @@
 Скопипасти данный код
 
  `![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)`
- Можно сделать картинку или gif кликабельной ,для перехода куда-либо. В таком случае нужно будет написать код так:
+
+Можно сделать картинку или gif кликабельной ,для перехода куда-либо. В таком случае нужно будет написать код так:
  
  `[![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 `
