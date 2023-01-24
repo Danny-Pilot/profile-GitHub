@@ -24,3 +24,12 @@
 [![Header](https://github.com/Danny-Pilot/Danny-Pilot/blob/main/assets/video.gif)](https://ic.pics.livejournal.com/doktor_bolzen/38570064/322255/322255_original.gif)
 
 Теперь можно кликать на картинку или Gif-ку.
+
+# Смайлики и эмодзи
+
+Смайликов можно ставить , сколько угодно : вот `:sunglasses:`:sunglasses:  `:hammer_and_wrench:` :hammer_and_wrench: `:musical_note:`:musical_note: `:skier:`:skier:
+
+Но, если этих смайликов мало, то вот у этого чувака, их немного побольше.
+
+[![Смайлики](https://img.shields.io/badge/-Много_смайликов-000010?style=for-the-badge&logo=)](https://gist.github.com/rxaviers/7360908)
+
