@@ -33,3 +33,5 @@
 
 [![Смайлики](https://img.shields.io/badge/-Много_смайликов-000010?style=for-the-badge&logo=)](https://gist.github.com/rxaviers/7360908)
 
+# Теперь делаем значки с инструментами :hammer_and_wrench:
+
