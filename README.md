@@ -36,7 +36,12 @@
 # Теперь делаем значки с инструментами :hammer_and_wrench:
 
 Для популярных приложений, значек будет добавляться автоматический
+
+
 ![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
+
 `![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)`
+
 Значки так же можно делать кликабельными.
+А на этом сайте можно выбрать рызные виды и размеры данных стилей `https://shields.io/` тыкай.
 
